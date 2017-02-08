@@ -30,10 +30,13 @@ develop order.
 
 finish
 
-> readme udpate
-> uses method
-> remove issue
-> commit #NUM issue number
+> readme udpate.
+>
+> uses method.
+>
+> remove issue.
+>
+> commit #NUM issue number.
     
    
    
