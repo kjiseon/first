@@ -4,13 +4,8 @@
 develop order.
   
 * create git ignore.
-* create project.
-- config maven.
- , dependency (springboot, jpa, hibernate, embedded tomcat, memory db, test).
-* spring config.
-- json.
- rest.
- datasource.
+* create project - `config maven`, `dependency (springboot, jpa, hibernate, embedded tomcat, memory db, test)`, 
+* spring config - `json`, `rest`, `datasource`
  hibernate.
  transaction.
  
