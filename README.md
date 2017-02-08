@@ -5,28 +5,28 @@ develop order.
   
 * create git ignore.
 * create project.
- ** config maven.
-** dependency (springboot, jpa, hibernate, embedded tomcat, memory db, test).
+- config maven.
+ , dependency (springboot, jpa, hibernate, embedded tomcat, memory db, test).
 * spring config.
-** json.
-** rest.
-** datasource.
-** hibernate.
-** transaction.
+- json.
+ rest.
+ datasource.
+ hibernate.
+ transaction.
  
 * initialize.
-** db.
-** tablescript.
+- db.
+ tablescript.
 * java.
-** bean.
-** controller.
-** service.
-** dao.
+- bean.
+ controller.
+ service.
+ dao.
 * testcode.
-** mock test.
-** dd.
+- mock test.
+ validation.
 * ui.
-** possible.
+- possible.
 
 finish.
 
