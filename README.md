@@ -1,7 +1,7 @@
 # api
 
 ## develop
-develop order
+develop order.
   
 *create git ignore
 *create project
