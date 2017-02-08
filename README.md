@@ -5,7 +5,7 @@ develop order.
   
 * create git ignore
 * create project
-** config maven
+ ** config maven
 ** dependency (springboot, jpa, hibernate, embedded tomcat, memory db, test)
 * spring config 
 ** json
