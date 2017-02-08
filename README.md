@@ -3,8 +3,8 @@
 ## develop
 develop order
   
- *create git ignore
- *create project
+*create git ignore
+*create project
   ** config maven
   **dependency (springboot, jpa, hibernate, embedded tomcat, memory db, test)
  *spring config 
