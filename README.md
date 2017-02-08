@@ -4,24 +4,12 @@
 develop order.
   
 * create git ignore.
-* create project - `config maven`, `dependency (springboot, jpa, hibernate, embedded tomcat, memory db, test)`, 
-* spring config - `json`, `rest`, `datasource`
- hibernate.
- transaction.
- 
-* initialize.
-- db.
- tablescript.
-* java.
-- bean.
- controller.
- service.
- dao.
-* testcode.
-- mock test.
- validation.
-* ui.
-- possible.
+* create project - `config maven`, `dependency (springboot, jpa, hibernate, embedded tomcat, memory db, test)`.
+* spring config - `json`, `rest`, `datasource`, `hibernate`, `transaction`.
+* initialize - `db`, `tablescript`.
+* java - `value object`, `controller`, `service`, `dao`, `valuesfactory`
+* testcode - `mock test`, `validation`.
+* ui - `possibly`
 
 finish.
 
