@@ -28,3 +28,5 @@ finish.
 ## use.
 
 `git clone https://github.com/kjiseon/first` .
+
+with issue 
