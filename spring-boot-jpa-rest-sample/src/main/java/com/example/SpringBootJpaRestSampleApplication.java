@@ -14,7 +14,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author Park SeongMin
  *
  */
-@SpringBootApplication
+@SpringBootApplication 
 public class SpringBootJpaRestSampleApplication {
  
 	public static void main(String[] args) {
