@@ -2,6 +2,10 @@
 
 ## develop.
 develop order.
+
+
+[**v0.1**] (https://github.com/kjiseon/first/releases/tag/0.1)
+download (https://github.com/kjiseon/first/releases/download/0.1/shop-api-0.1.jar)
   
 * create git ignore.
 * create project - `config maven`, `dependency (springboot, jpa, hibernate, embedded tomcat, memory db, test)`.
